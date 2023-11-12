@@ -7,3 +7,4 @@ dist
 .example.env
 .env
 docker-compose.yml
+.npmrc
